@@ -1,0 +1,2 @@
+class PostSchedulerJob < ApplicationJob
+end
